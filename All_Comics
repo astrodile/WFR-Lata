@@ -1,0 +1,17 @@
+{
+  "title": "<War for Rayuba: Lata>",
+  "description": "<A janitor pledges their alliegance to Bastion.>",
+  "artist": "<astr0dile>",
+  "author": "<astr0dile>",
+  "cover": "<https://cdn.discordapp.com/attachments/801085945691766824/842630689530445824/SPEARE.png>",
+  "chapters": {
+    "<chapter number>": {
+      "title": "<Introduction>",
+      "volume": "<1>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/PzmiEtu/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
